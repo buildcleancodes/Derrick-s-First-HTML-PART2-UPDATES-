@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/b67aa9bb-ab20-4542-9f2e-c4eeabc40b64
-
 # Derrick-s-First-HTML-PART2-UPDATES-
 Hello World! I just added 3 more elements to my HTML document! I would love some feedback &amp; tips! Thank you! There will be 3 parts to this project. 
 
@@ -105,6 +101,7 @@ continue on my journey of learning more everyday.
     <h2>2. Now That We Have "Links & Videos" On Our Page! Let's Add Some Semantics To Our HTML Document!
     </h2>
     <p>Semantics is the invisible structure of your document that gives the browser and seo a better understanding of what's going on in your HTML document. It gives clearer meanings and organization in your document. Semantics also helps you keep your code clean for future employers and collaboraters.The last thing you want to do is have sloppy code in a group project, it will slow down progress and cause avoidable confusion. I like to see Semantics as the <strong>organizer</strong> of your code</p>
+    <figcaption>Semantics 101</figcaption>
     <iframe src="https://github.com/user-attachments/assets/b67aa9bb-ab20-4542-9f2e-c4eeabc40b64" width="1200" height="680"allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" referrerpolicy="strict-origin">
     </iframe>
     </section>
