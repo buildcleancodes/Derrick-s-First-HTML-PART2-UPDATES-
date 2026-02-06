@@ -101,7 +101,7 @@ continue on my journey of learning more everyday.
     <h2>2. Now That We Have "Links & Videos" On Our Page! Let's Add Some Semantics To Our HTML Document!
     </h2>
     <p>Semantics is the invisible structure of your document that gives the browser and seo a better understanding of what's going on in your HTML document. It gives clearer meanings and organization in your document. Semantics also helps you keep your code clean for future employers and collaboraters.The last thing you want to do is have sloppy code in a group project, it will slow down progress and cause avoidable confusion. I like to see Semantics as the <strong>organizer</strong> of your code</p>
-    <iframe src="https://youtu.be/bOUhq46fd5g?si=k1vWXKf-9M5WY-4v" width="1200" height="680"allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" referrerpolicy="strict-origin">
+    <iframe src="https://www.youtube.com/embed/bOUhq46fd5g?" width="1200" height="680"allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" referrerpolicy="strict-origin">
     </iframe>
     </section>
     <h2>3. We've added LINKS,VIDEOS & SEMANTICS to our HTML document!</h2>
