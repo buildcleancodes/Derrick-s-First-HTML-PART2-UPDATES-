@@ -22,6 +22,7 @@ Hello World! I just added 3 more elements to my HTML document! I would love some
         </ul
      <nav>
     <hr>
+    <hr>
     <h2>I plan on creating <mark>multiple</mark> projects every week to show my knowledge and understanding of the languages. This is not a specific build or
 project but it is just a display of my understanding of HTML elements and semantics as I
 continue on my journey of learning more everyday.
