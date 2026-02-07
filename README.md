@@ -13,6 +13,17 @@ Hello World! I just added 3 more elements to my HTML document! I would love some
     <h1>Welcome! This is my first HTML Project!
     </h1>
     <hr>
+      <nav>
+        <ul>
+            <li><a href="#experiences">My Experiences</a></li>
+            <li><a href="#code">Why I Want To Code?</a></li>
+            <li><a href="#plans">Where Do I See Myself In 5 Years?</a></li>
+            <li><a href="#Weakness>Where Do I Need To Strengthen My Code?</a></li>
+        </ul
+     <nav>
+                
+            
+    <hr>
     <h2>I plan on creating <mark>multiple</mark> projects every week to show my knowledge and understanding of the languages. This is not a specific build or
 project but it is just a display of my understanding of HTML elements and semantics as I
 continue on my journey of learning more everyday.
@@ -28,7 +39,7 @@ continue on my journey of learning more everyday.
     </ul>
     <hr>
     <main>
-  <section id="My Experiences">
+  <section id="experiences">
     <h2>1. My Experiences So Far?
     </h2>
     <p>It's been pretty challenging learning all of these languages, but overall I enjoy learning the skill as a whole. I usually start coding first thing in the morning at 8am to about 12pm.I will start off with HTML lessons; then I will work my way all the way through CSS down to JAVASCRIPT. I find it beneficial to allow my brain to dive into each language everyday to keep my coder mind flowing & to not stay stagnent. 
@@ -36,7 +47,7 @@ continue on my journey of learning more everyday.
     <figcaption>Life Of A Developer<figcaption>
     <img src= "https://github.com/user-attachments/assets/70943c8a-d136-45e3-a090-398b2e5ed92e" alt= "Stressed Out Developer" height="686" width="1200">
     </section>
-  <section id="Why I Want To Code?">
+  <section id="code">
     <h2>2. Why I Want To Code?
     </h2>
     <p>When I was a child, I was always drawn to computers. I loved tech, games and social applications from the dawn of the age. I remember building my own myspace page and I will never forget the day Facebook launched and blew myspace out of business. I really want to be apart of the future development of society and apart of the future digital infrastructure.
@@ -51,7 +62,7 @@ continue on my journey of learning more everyday.
     </p>
     <figcaption>I Love Coding<figcaption>
     <img src="https://github.com/user-attachments/assets/443cdf4a-51fd-4e88-8467-542256250f33" alt="Image Of A Developer" width="1200" height="686">
-    <section>
+    <section id="plans">
     <h2> 3.Where Do I See Myself In 5 Years?
     </h2>
     <p>In 5 years, I see myself going very far and creating a great name for myself in the software development space.I know things will not be easy or get easier, as it wasn't even easy for me to make it this far. Being a coder is about loving problems and being solution based. I have a great understadning of that, so I know I will be in the space for the long haul. Making a long story short, I see myslef being a "Senior Developer In 5 Years & maybe even better". After I knock out and have a clear understanding of HTML, CSS & JAVASCRIPT; I will move on the more challenging languages like:
@@ -65,7 +76,7 @@ continue on my journey of learning more everyday.
     </figcaption>
     <img src="https://github.com/user-attachments/assets/b6c1d10b-1c63-473f-8966-8ac2a75baeeb" alt="Group Of Progamming Languages" height="500" width="1200">
     </section>
-    <section>
+    <section id="weakness">
     <h2>4. Where Do I Think I Should Strengthen My HTML Coding Currently?
     </h2>
     <ol>
