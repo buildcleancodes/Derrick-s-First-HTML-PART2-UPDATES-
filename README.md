@@ -106,6 +106,12 @@ continue on my journey of learning more everyday.
     </iframe>
     </section>
     <h2>3. We've added LINKS,VIDEOS & SEMANTICS to our HTML document!</h2>
+    <p>Our HTML document is now starting to come together. We have a nice structure before we even added CSS. We have 3 more elements to add:
+        <ol>
+            <li>AUDIO</li>
+            <li>TABLES</li>
+            <li>BUTTON</li>
+        </ol>
     <hr>
     <p><a href="#">Back To Top
     </p></a>
