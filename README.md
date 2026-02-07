@@ -18,7 +18,7 @@ Hello World! I just added 3 more elements to my HTML document! I would love some
             <li><a href="#experiences">My Experiences</a></li>
             <li><a href="#code">Why I Want To Code?</a></li>
             <li><a href="#plans">Where Do I See Myself In 5 Years?</a></li>
-            <li><a href="#Weakness>Where Do I Need To Strengthen My Code?</a></li>
+            <li><a href="#weakness">Where Do I Need To Strengthen My Code?</a></li>
         </ul>
      <nav>
     <hr>
