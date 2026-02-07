@@ -112,7 +112,7 @@ continue on my journey of learning more everyday.
             <li>TABLES</li>
             <li>BUTTONS</li>
         </ol>
-        <p> I will add a form and input at the end of our HTML document as well to make our web page look a little more well put together.</p>
+        <p> I will add a form and input at the end of our HTML document as well to make our web page look a little more well put together & to get interaction from the user.</p>
             
     <hr>
     <p><a href="#">Back To Top
