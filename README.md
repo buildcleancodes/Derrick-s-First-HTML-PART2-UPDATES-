@@ -81,6 +81,7 @@ continue on my journey of learning more everyday.
        <li>ADDING VIDEOS ✅</li>
        <li>BETTER SEMANTICS ✅</li>
        <li>ADDING BUTTONS</li>
+    <hr>
     </ol>
     <p>This is my first coding project, so my intentions isn't to make this one super fancy. You will see my growth as I continue to implement what I learn in future projects. See you on the next project! 
     </p>
