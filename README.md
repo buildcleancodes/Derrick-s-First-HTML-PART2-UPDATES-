@@ -110,8 +110,10 @@ continue on my journey of learning more everyday.
         <ol>
             <li>AUDIO</li>
             <li>TABLES</li>
-            <li>BUTTON</li>
+            <li>BUTTONS</li>
         </ol>
+        <p> I may add a form and input as well to make a web page look a little more put together.</p>
+            
     <hr>
     <p><a href="#">Back To Top
     </p></a>
