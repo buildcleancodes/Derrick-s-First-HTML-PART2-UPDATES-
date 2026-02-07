@@ -21,8 +21,6 @@ Hello World! I just added 3 more elements to my HTML document! I would love some
             <li><a href="#Weakness>Where Do I Need To Strengthen My Code?</a></li>
         </ul
      <nav>
-                
-            
     <hr>
     <h2>I plan on creating <mark>multiple</mark> projects every week to show my knowledge and understanding of the languages. This is not a specific build or
 project but it is just a display of my understanding of HTML elements and semantics as I
