@@ -83,7 +83,7 @@ continue on my journey of learning more everyday.
        <li>ADDING BUTTONS</li>
     <hr>
     </ol>
-    <p>This is my first coding project, so my intentions isn't to make this one super fancy. You will see my growth as I continue to implement what I learn in future projects. See you on the next project! 
+    <p>This is my first coding project, so my intentions isn't to make this one super fancy. You will see my growth as I continue to implement what I learn in future projects. See you on the next update! 
     </p>
     <figcaption>Thanks For Reading My First HTML CODE!<figcaption>
     <img src="https://github.com/user-attachments/assets/78e6b4fc-d9d9-4364-bee4-26f68588855b" alt="Software Team Celebrating" width="1200" height="680">
