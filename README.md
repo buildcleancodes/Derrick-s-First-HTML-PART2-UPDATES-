@@ -58,7 +58,7 @@ continue on my journey of learning more everyday.
     <figcaption>I Love Coding<figcaption>
     <img src="https://github.com/user-attachments/assets/443cdf4a-51fd-4e88-8467-542256250f33" alt="Image Of A Developer" width="1200" height="686">
     <section id="plans">
-    <h2> 3.Where Do I See Myself In 5 Years?
+    <h2> 3. Where Do I See Myself In 5 Years?
     </h2>
     <p>In 5 years, I see myself going very far and creating a great name for myself in the software development space.I know things will not be easy or get easier, as it wasn't even easy for me to make it this far. Being a coder is about loving problems and being solution based. I have a great understadning of that, so I know I will be in the space for the long haul. Making a long story short, I see myslef being a "Senior Developer In 5 Years & maybe even better". After I knock out and have a clear understanding of HTML, CSS & JAVASCRIPT; I will move on the more challenging languages like:
     </p>
