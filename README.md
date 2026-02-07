@@ -9,8 +9,6 @@
 <body>
     <h1>Welcome! This is my first HTML Project!
     </h1>
-    <hr>
-    <hr>
       <nav>
         <ul>
             <li><a href="#experiences">My Experiences</a></li>
