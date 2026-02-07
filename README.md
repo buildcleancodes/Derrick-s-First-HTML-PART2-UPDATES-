@@ -27,10 +27,6 @@ Hello World! I just added 3 more elements to my HTML document! I would love some
 project but it is just a display of my understanding of HTML elements and semantics as I
 continue on my journey of learning more everyday.
     </h2>
-    <p>I just started taking onlines courses on youtube to learn the most foundational languages.
-    </p>
-    <p>I am currently learning these languages from <a href="https://www.freecodecamp.org">freeCodecamp</a> & from their channel on <a href="https://youtube.com/@freecodecamp?si=c8xI2kyNtQuTsmQ0">youtube</a>:
-    </p>
     <ul>
        <li>HTML</li>
        <li>CSS</li>
